@@ -2,4 +2,4 @@
 
 This is my first git Repository.
 <br>
-Author-Milan (Mandal is a hero)
+Author-Milan (MILAN IS A HERO)
